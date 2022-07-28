@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Arman2409
-- 👀 I’m interested in music, sports, programming, etc. .
+- 👋 Hi, I’m @Arman2409.
+- 👀 I’m interested in music, sports etc. .
 - 🌱 I’m currently learning Docker.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
