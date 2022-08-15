@@ -2,7 +2,7 @@
 - 👀 I’m interested in music, sports etc. .
 - 🌱 I’m currently learning Docker.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me is by messaging.
 
 <!---
 Arman2409/Arman2409 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
